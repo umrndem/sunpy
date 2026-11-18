@@ -1,0 +1,1 @@
+Fix loading FITS maps with SIP distortion when their metadata includes comments or multiline history.
